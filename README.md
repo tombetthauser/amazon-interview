@@ -1,9 +1,5 @@
-<!-- ![computa](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.reactiongifs.com%2Fr%2Fmnytu.gif&f=1&nofb=1) -->
-<!-- ![boomsters](https://viralviralvideos.com/wp-content/uploads/meme/2014/03/GIF-That-awkward-moment-when-you-use-Google-to-search-for-Google.gif) -->
-![hackathon](https://i.giphy.com/media/HwOmxUKFFNEwU/giphy.webp)
-<!-- ![](http://s3.amazonaws.com/images.seroundtable.com/google-my-business-photos-animated-1570448884.gif) -->
-<!-- ![](https://i.giphy.com/media/j0vSKwKrlJiKwjfH7Z/giphy.webp) -->
-<!-- ![](https://i.giphy.com/media/yR4xZagT71AAM/giphy.webp) -->
+![](https://i2.wp.com/webadictos.com/media/2018/11/amazon-buen-fin-2018.gif?resize=640%2C350&ssl=1)
+
 
 # The Amazon Interview
 
@@ -27,14 +23,17 @@ Arrays and Strings (21 / 21)
 ### First Unique Character in String
 ```Topic: Arrays | Leetcode: Easy 💚```
 
-Given an array of integers and a value, determine if there are any two integers in the array whose sum is equal to the given value.
+Find the first non-repeating letter in a string and return its index number.
 
 [leetcode](https://leetcode.com/problems/first-unique-character-in-a-string/) | [youtube](https://www.youtube.com/watch?v=wlRezT0b5MI)
 
 ```
-Hint: Use a hash map.
+Hint: Use a hash map and multiple iterations.
 ```
 <!-- 
+Iterate over the input string once and create a counts hash table.
+Iterate over the string a second time.
+Check the hash table to see if there is exactly one 
 -->
 
 ---
