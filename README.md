@@ -3,7 +3,7 @@
 
 # The Amazon Interview
 
-### A Starter List of Questions for General Practice
+### A Comprehensive List of Questions for General Practice
 
 You don't have to be preparing for a FAANG interview to benefit from studying data structures and algorithms as if you were. Because of their size and popularity FAANG interview questions are extremely well documented and in many cases are intended to be publicly transparent. Because of this many other companies model their interview questions on those used by FAANG companies. And as is the case with most companies, the technical questions used by FAANG companies can be found for the most part on sites like Leetcode. 
 
